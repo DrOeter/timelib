@@ -1,2 +1,1 @@
-# timelib
-Initial repository for a time library written in C.
+Moritz Mögel 08.03.2021
